@@ -442,7 +442,7 @@
 			input[type="button"],
 			button,
 			.button {
-				padding: 0;
+				padding: 0 10px 0 10px;
 			}
 
 		}
@@ -1009,6 +1009,7 @@
 
 		ul li {
 			padding-left: 0.5em;
+			list-style-type: none!important;
 		}
 
 		ul.alt {
@@ -1598,7 +1599,7 @@
 	}
 
 		#footer .copyright {
-			color: #bfbfbf;
+			color: #323232;
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0 1em;
